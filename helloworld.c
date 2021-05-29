@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-	printf("hello \n");
+	printf("hello version 0.1 \n");
 
 	return 0;
 }
